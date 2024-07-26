@@ -1,0 +1,60 @@
+.a{
+    margin-left: 30px;
+}
+.item{
+    float: left;
+    width: 250px;
+    height: 360px;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid rgb(170, 114, 114);
+    
+}
+h2 span{
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+.text{
+    text-align: left;
+    
+}
+
+#id1{
+    display: inline;
+    color: green;
+    font-size: 20px;
+}
+#id2{
+    display: inline;
+    color: red;
+    font-size: 15px;
+    text-decoration-line:line-through;
+}
+#add{
+    
+    background-color: rgb(170, 114, 114);
+    color: aliceblue;
+    padding: auto;
+    width: 180px;
+    height:  40px;
+}
+#fa-heart{
+
+    padding: auto;
+    width: 50px;
+    height: 40px;
+}
+img{
+    
+    width: 240px;
+    margin-left: 4px;
+   
+}
+.bi {
+  margin-left: 5px;
+    float: left;
+
+}
+.clearfix{
+    clear: left;
+}
